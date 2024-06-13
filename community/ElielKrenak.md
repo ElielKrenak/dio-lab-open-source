@@ -1,6 +1,6 @@
 # Sugestão 
 
-Descrrição de Alteração que está sendo proposta : 
+Descrição de Alteração que está sendo proposta : 
 
 # Descrição 
 
